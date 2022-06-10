@@ -1,4 +1,4 @@
-eb init ali-udacity 
+eb init ali-udacity --region us-east-1 --platform node.js 
 eb list  
 eb use Aliudacity-env 
 eb deploy 
